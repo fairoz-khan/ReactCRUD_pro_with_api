@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "hi",
+      "description": "hello",
+      "userId": "114869924405090078509",
+      "id": 1
+    },
+    {
+      "title": "youtube",
+      "description": "the app full of knowledge",
+      "userId": "114869924405090078509",
+      "id": 2
+    }
+  ]
+}
